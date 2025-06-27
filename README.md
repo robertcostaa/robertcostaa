@@ -10,7 +10,7 @@ Me chamo Robert de Araújo Costa, tenho 20 anos e sou natural da Bahia. Atualmen
 <div> 
  <a href="https://www.instagram.com/robert.costa_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:robertaraujo2004@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/robert-araújo-538023354/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/robert-araujo-costa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
 
@@ -106,7 +106,7 @@ Me chamo Robert de Araújo Costa, tenho 20 anos e sou natural da Bahia. Atualmen
 ## 📫 Como me encontrar
 
 - Email: robertaraujo2004@gmail.com    
-- LinkedIn: [Robert Araújo](https://www.linkedin.com/in/robert-araújo-538023354/)
+- LinkedIn: [Robert Araújo](https://www.linkedin.com/in/robert-araujo-costa/)
 
 ---
 
