@@ -1,16 +1,107 @@
-## Hi there 👋
+# 👨‍💻 Robert Costa
 
-<!--
-**robertcostaa/robertcostaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`🎯 Desenvolvedor Front-End`**
 
-Here are some ideas to get you started:
+📍 Brasil | 🌐 GitHub: [@robertcostaa](https://github.com/robertcostaa)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Me chamo Robert de Araújo Costa, tenho 20 anos e sou natural da Bahia. Atualmente, estou cursando Sistema de Informação na UNEX. Sou apaixonado por tecnologia e estou em constante evolução como Desenvolvedor. Tenho trabalhado em projetos pessoais e cursos online, buscando aprimorar minhas habilidades em desenvolvimento web, design de interfaces. Possuo também conhecimentos básicos em Java, com foco em lógica de programação, estruturas de controle e orientação a objetos, e com MySQL, criando e manipulando tabelas, realizando consultas e gerenciando bancos de dados em projetos práticos.
+
+---
+
+### 🤖 Linguagens e Tecnologias
+
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+
+
+
+<img 
+    align="left" 
+    alt="Bootstrap"
+    title="Bootstrap" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Java" 
+    title="Java"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
+  />
+
+  <img  
+    align="left" 
+    alt="MySQL" 
+    title="MySQL"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
+   />
+
+   <img 
+     align="left" 
+    alt="Figma" 
+    title="Figma"
+    width="30px" 
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
+          
+          
+
+<br/>
+<br/>
+
+
+  ## 📈 GitHub Status
+
+<p align="left">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=robertcostaa&show_icons=true&theme=radical"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robertcostaa&layout=compact&theme=radical"/>
+</p>
+
+---
+
+## 📫 Como me encontrar
+
+- Email: robertaraujo2004@gmail.com  
+- GitHub: [github.com/robertcostaa](https://github.com/robertcostaa)  
+- LinkedIn: [Robert Araújo](https://www.linkedin.com/in/robert-araújo-538023354/)
+
+---
+
+🧠 *"Aprender é a única coisa que a mente nunca se cansa, nunca tem medo e nunca se arrepende."* – Leonardo da Vinci
