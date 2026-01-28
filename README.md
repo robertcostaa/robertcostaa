@@ -1,11 +1,14 @@
-# 👨‍💻 Robert Costa
+# 👨‍💻 Olá, eu sou o Robert de Araújo Costa
 
-**`🎯 Desenvolvedor Front-End`**
+**`🎯 Desenvolvedor Back-end em formação`**
 
 📍 Brasil | 🌐 GitHub: [@robertcostaa](https://github.com/robertcostaa)
+🎓 Cursando Sistemas de Informação – UNEX 
 
 
-Me chamo Robert de Araújo Costa, tenho 20 anos e sou natural da Bahia. Atualmente, estou cursando Sistema de Informação na UNEX. Sou apaixonado por tecnologia e estou em constante evolução como Desenvolvedor. Tenho trabalhado em projetos pessoais e cursos online, buscando aprimorar minhas habilidades em desenvolvimento web, design de interfaces. Possuo também conhecimentos básicos em Java, com foco em lógica de programação, estruturas de controle e orientação a objetos, e com MySQL, criando e manipulando tabelas, realizando consultas e gerenciando bancos de dados em projetos práticos.
+Sou apaixonado por tecnologia e focado no desenvolvimento **Back-end**, criando **APIs REST** e trabalhando com banco de dados utilizando **Prisma** e **MySQL**.  
+Também utilizo **Figma** para prototipação e **HTML** com **CSS** como apoio à compreensão de regras de negócio, fluxos e integração entre front e back-end.
+
 
 <div> 
  <a href="https://www.instagram.com/robert.costa_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -13,6 +16,16 @@ Me chamo Robert de Araújo Costa, tenho 20 anos e sou natural da Bahia. Atualmen
   <a href="https://www.linkedin.com/in/robert-araujo-costa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+
+---
+
+## 🧠 O que estou praticando atualmente
+- Desenvolvimento de APIs REST
+- Integração com banco de dados relacional
+- Lógica de programação e orientação a objetos
+- Estruturação de projetos back-end
+- Versionamento de código com Git
+- Prototipação básica para apoio ao desenvolvimento
 
 ---
 
@@ -26,6 +39,7 @@ Me chamo Robert de Araújo Costa, tenho 20 anos e sou natural da Bahia. Atualmen
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
+
 <img 
     align="left" 
     alt="CSS" 
@@ -33,7 +47,8 @@ Me chamo Robert de Araújo Costa, tenho 20 anos e sou natural da Bahia. Atualmen
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
+/> 
+
 <img 
     align="left" 
     alt="JavaScript" 
@@ -43,15 +58,22 @@ Me chamo Robert de Araújo Costa, tenho 20 anos e sou natural da Bahia. Atualmen
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
 
-
+<img 
+    align="left" 
+    alt="Node.js"
+    title="Node.js" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"
+/>
 
 <img 
     align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
+    alt="Prisma"
+    title="Prisma" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg"
 />
 
 <img 
@@ -62,6 +84,7 @@ Me chamo Robert de Araújo Costa, tenho 20 anos e sou natural da Bahia. Atualmen
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
+
 <img 
     align="left" 
     alt="Java" 
@@ -72,6 +95,15 @@ Me chamo Robert de Araújo Costa, tenho 20 anos e sou natural da Bahia. Atualmen
   />
 
   <img  
+    align="left" 
+    alt="Spring" 
+    title="Spring"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"
+   />
+   
+   <img  
     align="left" 
     alt="MySQL" 
     title="MySQL"
@@ -88,8 +120,7 @@ Me chamo Robert de Araújo Costa, tenho 20 anos e sou natural da Bahia. Atualmen
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
           
-          
-
+      
 <br/>
 <br/>
 
