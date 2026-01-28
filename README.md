@@ -6,8 +6,9 @@
 🎓 Cursando Sistemas de Informação – UNEX 
 
 
-Sou apaixonado por tecnologia e focado no desenvolvimento **Back-end**, criando **APIs REST** e trabalhando com banco de dados utilizando **Prisma** e **MySQL**.  
-Também utilizo **Figma** para prototipação e **HTML** com **CSS** como apoio à compreensão de regras de negócio, fluxos e integração entre front e back-end.
+Sou apaixonado por tecnologia e focado no desenvolvimento **Back-end**, criando **APIs REST** com **Node.js** e **Express**, utilizando **Prisma** e **MySQL** para persistência de dados.  
+Também utilizo **Figma**, **HTML** e **CSS** como apoio à compreensão de regras de negócio, fluxos e integração entre front e back-end.
+
 
 
 <div> 
@@ -31,23 +32,10 @@ Também utilizo **Figma** para prototipação e **HTML** com **CSS** como apoio 
 
 ### 🤖 Linguagens e Tecnologias
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/> 
+**Back-end:** JavaScript, Node.js, Prisma, MySQL  
+**Interface (apoio):** HTML, CSS  
+**Versionamento:** Git  
+**Conhecimentos adicionais:** Java, Spring, Figma
 
 <img 
     align="left" 
@@ -76,6 +64,16 @@ Também utilizo **Figma** para prototipação e **HTML** com **CSS** como apoio 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg"
 />
 
+
+ <img  
+    align="left" 
+    alt="MySQL" 
+    title="MySQL"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
+ />
+ 
 <img 
     align="left" 
     alt="Git" 
@@ -84,6 +82,24 @@ Também utilizo **Figma** para prototipação e **HTML** com **CSS** como apoio 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
+
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/> 
 
 <img 
     align="left" 
@@ -103,15 +119,6 @@ Também utilizo **Figma** para prototipação e **HTML** com **CSS** como apoio 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"
    />
    
-   <img  
-    align="left" 
-    alt="MySQL" 
-    title="MySQL"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
-   />
-
    <img 
      align="left" 
     alt="Figma" 
